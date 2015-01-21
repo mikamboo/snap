@@ -1,7 +1,7 @@
 # snap
 
-Is a Simple Node AngularJs App skeleton.
-A minimalistique client/server app running nodejs (backend) and angularjs (frontend).
+Snap is a Simple Node AngularJs App skeleton.
+A minimalistique client/server app running on nodejs (backend) and angularjs (frontend).
 
 ![snap](http://www.mikangali.com/wp-content/uploads/2015/01/snap.jpg.jpg)
 
