@@ -36,6 +36,7 @@ Snap is a perfect tool to quickly prototyping your project.
 	│
 	├── public/ 
 	│   │
+	│   ├──	app.js
 	│   ├──	index.html
 	│   │
 	│   ├── css/
@@ -46,7 +47,7 @@ Snap is a perfect tool to quickly prototyping your project.
 	│   	├── bootstrap.min.js 	(v3.3.2) 	 	 
 	│   	└── jquery.js 		(v2.1.3)
 	│
-	└── app.js 
+	└── server.js 
 
 * App is running on localhost at: http//localhost:3000
 
