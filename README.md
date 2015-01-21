@@ -43,12 +43,10 @@ Snap is a perfect tool to quickly prototyping your project.
 	│   ├──	index.html
 	│   │
 	│   ├── css/
-	│   │   └── bootstrap.css 	(v2.1.3)
+	│   │   └── bootstrap.min.css (v2.1.3)
 	│   │
-	│   └── js/
-	│   	├── angular.js 		(v1.3.10)
-	│   	├── bootstrap.min.js 	(v3.3.2) 	 	 
-	│   	└── jquery.js 		(v2.1.3)
+	│   └── js/ 	 
+	│   	└── angular.min.js (v1.3.10)
 	│
 	└── server.js 
 
