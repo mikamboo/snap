@@ -50,7 +50,7 @@ Snap is a perfect tool to quickly prototyping your project.
 	│
 	└── server.js 
 
-* App is running on localhost at: http//localhost:3000
+* Your app is running on localhost at: http//localhost:3000
 
 > Download [snap zip](https://github.com/mikamboo/snap/archive/master.zip) from github.
 
