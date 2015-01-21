@@ -1,0 +1,19 @@
+{
+  "name": "snap",
+  "version": "1.0.0",
+  "description": "Start Node Angular app easily",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikamboo/snap.git"
+  },
+  "keywords": ["html5", "Node", "Angular", "Express"],
+  "author": "@mikamboo <mike@mikangali.com>",
+  "bugs": {
+    "url": "https://github.com/mikamboo/snap/issues"
+  },
+  "homepage": "https://github.com/mikamboo/snap"
+}
