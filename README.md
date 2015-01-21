@@ -17,7 +17,6 @@ Snap is a perfect tool to quickly prototyping your project.
 1. __Get snap__
 ```
     $ git clone https://github.com/mikamboo/snap.git
-    // or download [snap.zip](https://github.com/mikamboo/snap/archive/master.zip) from github and unzip it.
 ```
 
 2. __Move into snap folder and install__
@@ -51,6 +50,7 @@ Snap is a perfect tool to quickly prototyping your project.
 
 * App is running on localhost at: http//localhost:3000
 
+>> Download [snap.zip](https://github.com/mikamboo/snap/archive/master.zip) from github.
 
-Copyriths &copy; <a href="mikangali.com">mikangali</a> 2015
+>> Copyriths &copy; <a href="mikangali.com">mikangali</a> 2015
 
