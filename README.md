@@ -32,6 +32,7 @@ Snap is a perfect tool to quickly prototyping your project.
 ```
   $ node server.js
 ```
+* Your app is running on : __http//localhost:3000__
 
 ## App structure
 
