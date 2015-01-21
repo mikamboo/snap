@@ -11,18 +11,18 @@ Snap is a perfect tool to quickly prototyping your project.
 
 ## Quick install
 
-* 1. __Get the latest stable snap__
+1. __Get the latest stable snap__
 
     $ git clone https://github.com/mikamboo/snap.git
     
 or download [snap.zip](https://github.com/mikamboo/snap/archive/master.zip) from github and unzip it.
 
-* 2. __Move into snap folder and install__
+2. __Move into snap folder and install__
 
     $ cd snap
     $ npm install
 
-* 3. __Run the app__
+3. __Run the app__
 
     $ node server.js
 
