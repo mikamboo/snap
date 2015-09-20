@@ -3,6 +3,8 @@
 Snap is a Simple Node AngularJs App skeleton.
 A minimalistique client/server app running on nodejs (backend) and angularjs (frontend).
 
+[![Build Status](https://travis-ci.org/mikamboo/snap.svg)](https://travis-ci.org/mikamboo/snap)
+
 ![snap](http://www.mikangali.com/wp-content/uploads/2015/01/snap.jpg.jpg)
 
 Snap is a perfect tool to quickly prototyping your project.
